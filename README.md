@@ -1,18 +1,19 @@
-# Health Insurance + AI-driven Wellness Project
+# Lumina Care: AI-Driven Health Insurance Platform
 
-## Project Summary
-This website showcases a concept for a dynamic health insurance platform targeting young adults. It utilizes a modern, responsive design to explain the value proposition of integrating real-time wellness data with insurance premiums. The site features interactive elements, scroll animations, and a clean UI to effectively communicate the product's "win-win" economic model for users and insurers.
+## Project Overview
+Lumina Care is a concept for a next-generation health insurance platform targeting young adults. The project demonstrates how dynamic pricing models can integrate with real-time wellness data. The website features a high-fidelity, interactive user interface designed to visually communicate the economic benefits of a "wellness-first" insurance model.
 
-## Tech Stack & Frameworks
-This project was built using a **No-Code/Low-Code** approach to ensure high-fidelity design and rapid prototyping. The core technologies include:
+## Technical Architecture & Frameworks
+This project website was developed using a modern frontend stack to achieve high-performance rendering and complex interactions:
 
-* **Framer**: Served as the primary visual development environment and site generator. It handles the responsive layout, breakpoints (Desktop, Tablet, Mobile), and publishing pipeline.
-* **React**: The underlying library used by Framer to render the user interface components.
-* **Framer Motion**: Used to power the animations (e.g., scroll reveals, entry effects) and interactions visible throughout the site.
-* **HTML5/CSS3**: Custom CSS styling and HTML structure generated for web standards compliance.
+* **React.js**: Served as the core component-based UI library for managing application state and DOM rendering.
+* **Framer Motion**: Integrated for complex orchestration of animations, including scroll-triggered reveals, layout transitions, and gesture-based micro-interactions.
+* **ES Modules & Rolldown**: Used for efficient bundling and optimizing runtime performance for production deployment.
+* **Responsive CSS Grid/Flexbox**: Utilized within the styling architecture to ensure seamless adaptability across varying device breakpoints.
+* **Three.js / R3F (React Three Fiber)**: Utilized to implement the 3D visual elements and particle effects, adding depth and a futuristic aesthetic to the Figma prototype without compromising performance. 
 
-## AI Tools Used
-The following AI tools were utilized to enhance the design and development process:
+## AI Tools Integration
+To accelerate the design and asset creation pipeline, several AI tools were leveraged:
 
-* **Framer AI**: Assisted in generating initial layout structures, responsive text scaling, and color palette suggestions to speed up the visual design phase.
-* **Google Gemini**: Used for code analysis to extract technical details for documentation, formatted the final submission files, and generated this technical README to meet assignment requirements. 
+* **ChatGPT / Claude**: Assisted in generating the initial project boilerplate and debugging React component logic.
+* **GitHub Copilot**: Utilized for code completion and optimizing CSS-in-JS syntax during the development process.
