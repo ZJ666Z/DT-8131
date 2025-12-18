@@ -15,5 +15,5 @@ This project website was developed using a modern frontend stack to achieve high
 ## AI Tools Integration
 To accelerate the design and asset creation pipeline, several AI tools were leveraged:
 
-* **ChatGPT / Claude**: Assisted in generating the initial project boilerplate and debugging React component logic.
+* **ChatGPT / Gemini**: Assisted in generating the initial project boilerplate and debugging React component logic.
 * **GitHub Copilot**: Utilized for code completion and optimizing CSS-in-JS syntax during the development process.
