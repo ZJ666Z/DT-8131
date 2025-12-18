@@ -17,3 +17,11 @@ To accelerate the design and asset creation pipeline, several AI tools were leve
 
 * **ChatGPT / Gemini**: Assisted in generating the initial project boilerplate and debugging React component logic.
 * **GitHub Copilot**: Utilized for code completion and optimizing CSS-in-JS syntax during the development process.
+
+## Author
+* Shiyuan Tian, st2253@cornell.edu
+* Zijie Zhou, zz858@cornell.edu
+
+
+
+
